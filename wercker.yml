@@ -2,6 +2,7 @@ box: node
 
 services:
   - rabbitmq
+  - redis
 
 build:
   # The steps that will be executed on build
